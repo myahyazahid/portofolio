@@ -422,7 +422,7 @@ header .navbar ul li a:hover {
 
 
 /* about media queries starts*/
-/* @media screen and (max-width: 600px) {
+ @media screen and (max-width: 600px) {
   .about .row .image {
     margin-top: 2rem;
   }
@@ -441,9 +441,9 @@ header .navbar ul li a:hover {
   .about .row .content .box-container {
     gap: 0;
   }
-} */
+}
 
-@media(max-width:768px){
+/* @media(max-width:768px){
 
     .about{
         padding:4rem 2rem;
@@ -461,7 +461,7 @@ header .navbar ul li a:hover {
     .about .row .content p{
         font-size:1.4rem;
     }
-}
+} */
 
 /* about media queries ends*/
 /* about section ends */
