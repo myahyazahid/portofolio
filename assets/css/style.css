@@ -1049,6 +1049,15 @@ form .button-area {
   float: right;
   flex-direction: row-reverse;
 }
+
+.button-area button:disabled {
+    background: #4f46e5;
+    opacity: 0.45;
+    cursor: not-allowed;
+    filter: grayscale(30%);
+    box-shadow: none;
+}
+
 .button-area button {
   color: #fff;
   border: none;
