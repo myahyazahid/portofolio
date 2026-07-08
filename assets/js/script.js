@@ -118,9 +118,32 @@ function showProjects(projects) {
         <div class="desc">
           <p>${project.desc}</p>
           <div class="btns">
-            <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
-            <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
-          </div>
+
+            ${
+                project.links?.view
+                ? `<a href="${project.links.view}" class="btn" target="_blank">
+                    <i class="fas fa-eye"></i> View
+                </a>`
+                : ""
+            }
+
+            ${
+                project.links?.code
+                ? `<a href="${project.links.code}" class="btn" target="_blank">
+                    Code <i class="fas fa-code"></i>
+                </a>`
+                : ""
+            }
+
+             ${
+                project.links?.design
+                ? `<a href="${project.links.design}" class="btn" target="_blank">
+                    Design <i class="fas fa-palette"></i>
+                </a>`
+                : ""
+            }
+
+        </div>
         </div>
       </div>
     </div>`

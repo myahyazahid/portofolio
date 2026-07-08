@@ -713,12 +713,20 @@ header .navbar ul li a:hover {
 .work .desc p {
   font-size: 1.5rem;
 }
-.work .desc .btns {
+/* .work .desc .btns {
   display: flex;
   justify-content: space-between;
   width: 100%;
   margin-top: 2rem;
+} */
+
+.work .desc .btns {
+  display: flex;
+  justify-content: center;
+  gap:15px;
+  margin-top: 2rem;
 }
+
 .work .desc .btns .btn {
   line-height: 0;
   display: inline;
