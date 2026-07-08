@@ -1057,7 +1057,7 @@ form .button-area {
     filter: grayscale(30%);
     box-shadow: none;
 }
-
+/* vercel error dont know why */
 .button-area button {
   color: #fff;
   border: none;
