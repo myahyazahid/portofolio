@@ -60,43 +60,42 @@
     }
   },
   {
-    "name": "ResumeGen",
+    "name": "Arung Futsal | Fullstack",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "image": "futsal",
     "category": "mern",
     "links": {
       "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "code": "https://github.com/myahyazahid/Website_ArungFutsal"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "name": "Analisis Statistik Data Akademik",
+    "desc": "Mengumpulkan, Mengolah dan menganalisis data akademik menggunakan pendekatan statistik untuk mengidentifikasi pola dan hubungan antar variabel",
+    "image": "statkom",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://drive.google.com/file/d/1NowJBtqVwb_57PhAwq7WeIAAm7ZEdMno/view?usp=sharing"
     }
   },
   {
-    "name": "Flipkart PHP",
+    "name": "Koperasi",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
     "image": "flipkartphp",
-    "category": "lamp",
+    "category": "mern",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "view": "https://www.mediafire.com/file/us26zx00zfbop3d/app-release.apk/file",
       "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
+    "name": "Lingora | UI/UX Design",
+    "desc": "Merancang antarmuka dan pengalaman pengguna aplikasi pembelajaran bahasa isyarat menggunakan pendekatan Design Thinking",
+    "image": "lingora",
     "category": "basicweb",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "design": "https://github.com/jigar-sable/JavaScript-Projects"
     }
   },
   {
